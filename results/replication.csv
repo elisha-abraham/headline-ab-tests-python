@@ -1,0 +1,13 @@
+measure,exploratory,allowed_difference,confirmatory,difference,replicated
+"Tests with an uneven traffic split, %",15.452493330597166,3.0,15.52262433490172,0.0701310043045531,True
+"Tests significant at 0.05, %",45.31958762886598,3.0,45.585115785752166,0.2655281568861838,True
+"Tests significant with the false discovery rate held at 5%, %",35.29896907216495,3.0,36.47693123563726,1.1779621634723085,True
+"Tests estimated to hold a real difference, %",64.41237113402062,4.0,64.9018914619056,0.4895203278849891,True
+"Headline-only tests significant at 0.05, %",55.61766349916154,4.0,54.30994423791822,-1.3077192612433208,True
+"Image-only tests significant at 0.05, %",42.98755186721992,4.0,44.353667392883075,1.3661155256631545,True
+"Teaser-text-only tests significant at 0.05, %",23.29268292682927,4.0,22.792665726375176,-0.5000172004540921,True
+True spread of click rates within a test (SD of log odds),0.2440341687222252,0.02,0.25287858087688025,0.008844412154655062,True
+"Measured lift of the best package over the test average, median %",29.918569430096188,3.0,30.153364744211974,0.2347953141157859,True
+"Lift of the best package from luck alone, median %",16.461978070610776,2.0,16.430939304327435,-0.031038766283341346,True
+"Expected true lift of the best package, median %",21.167710037646906,3.0,21.76442016213509,0.5967101244881832,True
+"Minimum detectable lift at the median traffic, %",71.58132178619655,5.0,71.62350189371587,0.04218010751931445,True

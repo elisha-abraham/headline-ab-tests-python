@@ -1,0 +1,8 @@
+feature,property,exploratory_size_%,confirmatory_size_%
+words_per_5,Five more words,6.777429939989088,5.611726013031415
+question,Has a question mark,10.808309593240729,9.781359653472865
+number,Contains a number,6.259835615139964,5.835985446266445
+first_person_plural,"Says we, our or us",8.798807854044055,5.858300778549919
+points_forward,"Points forward (this, these, here's)",4.542372956290763,6.1288453057418035
+exclamation,Has an exclamation mark,11.7205056724762,6.536050559146944
+colon,Has a colon,7.835810378960928,7.356853422457954
