@@ -1,0 +1,15 @@
+{
+  "retrieved_utc": "2026-11-12T05:43:09+00:00",
+  "files": {
+    "upworthy-archive-exploratory-packages-03.12.2020.csv": {
+      "url": "https://osf.io/download/3vqmp/",
+      "bytes": 14260949,
+      "sha256": "8368313b060f4015a0c6fb34e6d788163cee29554144aba9390b14922eb9d8ce"
+    },
+    "upworthy-archive-confirmatory-packages-03.12.2020.csv": {
+      "url": "https://osf.io/download/vy8mj/",
+      "bytes": 66517697,
+      "sha256": "b2a88288c88f2b67d40413c9bdbebe79a1c0b5d9a9354180549f59f3bfff685f"
+    }
+  }
+}

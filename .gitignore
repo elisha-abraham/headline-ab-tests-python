@@ -1,0 +1,11 @@
+# the experiment files are fetched by scripts/01_download_data.py (81 MB)
+data/raw/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# never commit credentials
+*.cnf
+.env
