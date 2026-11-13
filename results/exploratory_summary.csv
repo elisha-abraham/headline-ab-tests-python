@@ -1,0 +1,17 @@
+measure,exploratory
+Tests,4873.0
+Packages,22666.0
+Median impressions per package,3122.0
+"Median click rate of a test, %",1.307227856263556
+"Tests with an uneven traffic split, %",15.452493330597166
+"Tests significant at 0.05, %",45.31958762886598
+"Tests significant with the false discovery rate held at 5%, %",35.29896907216495
+"Tests estimated to hold a real difference, %",64.41237113402062
+"Headline-only tests significant at 0.05, %",55.61766349916154
+"Image-only tests significant at 0.05, %",42.98755186721992
+"Teaser-text-only tests significant at 0.05, %",23.29268292682927
+True spread of click rates within a test (SD of log odds),0.24403416872222522
+"Measured lift of the best package over the test average, median %",29.918569430096188
+"Lift of the best package from luck alone, median %",16.461978070610776
+"Expected true lift of the best package, median %",21.167710037646902
+"Minimum detectable lift at the median traffic, %",71.58132178619655

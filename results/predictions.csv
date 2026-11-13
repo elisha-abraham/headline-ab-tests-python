@@ -1,0 +1,13 @@
+measure,exploratory,allowed_difference
+"Tests with an uneven traffic split, %",15.452493330597166,3.0
+"Tests significant at 0.05, %",45.31958762886598,3.0
+"Tests significant with the false discovery rate held at 5%, %",35.29896907216495,3.0
+"Tests estimated to hold a real difference, %",64.41237113402062,4.0
+"Headline-only tests significant at 0.05, %",55.61766349916154,4.0
+"Image-only tests significant at 0.05, %",42.98755186721992,4.0
+"Teaser-text-only tests significant at 0.05, %",23.29268292682927,4.0
+True spread of click rates within a test (SD of log odds),0.24403416872222522,0.02
+"Measured lift of the best package over the test average, median %",29.918569430096188,3.0
+"Lift of the best package from luck alone, median %",16.461978070610776,2.0
+"Expected true lift of the best package, median %",21.167710037646902,3.0
+"Minimum detectable lift at the median traffic, %",71.58132178619655,5.0
